@@ -1,2 +1,1 @@
-dyrnq/open-webui
-lobehub/lobe-chat
+ollama/ollama
